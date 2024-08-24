@@ -1,6 +1,6 @@
-import { useState } from "react";
-import Button from "./Button";
-import "./Counter.css";
+import { useState } from 'react';
+import Button from './Button';
+import './Counter.css';
 
 const Counter = () => {
   const [count, setCount] = useState(0);
@@ -12,11 +12,11 @@ const Counter = () => {
   return (
     <>
       <h1>Counter</h1>
-      <div className="container">
+      <div className='container'>
         <h1>{count}</h1>
-        {count > 0 && <Button text="decrease" clickHandler={decreaseHandler} />}
-        <Button text="increase" clickHandler={increaseHandler} />
-        {count > 0 && <Button text="reset" clickHandler={resetHandler} />}
+        {count > 0 && <Button text='decrease' clickHandler={decreaseHandler} />}
+        <Button text='increase' clickHandler={increaseHandler} />
+        {count > 0 && <Button text='reset' clickHandler={resetHandler} />}
       </div>
     </>
   );

@@ -16,12 +16,15 @@ button {
 
 .increase:hover {
   background-color: #43dd77;
+  box-shadow: none;
 }
 
 .decrease:hover {
   background-color: #ff6464;
+  box-shadow: none;
 }
 
 .reset:hover {
   background-color: #dbd5d5;
+  box-shadow: none;
 }

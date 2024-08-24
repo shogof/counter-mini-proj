@@ -1,4 +1,4 @@
-import "./Button.css";
+import './Button.css';
 function Button({ text, clickHandler }) {
   return (
     <button onClick={clickHandler} className={text}>
@@ -6,4 +6,5 @@ function Button({ text, clickHandler }) {
     </button>
   );
 }
+
 export default Button;
