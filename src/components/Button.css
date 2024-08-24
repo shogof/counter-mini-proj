@@ -1,0 +1,27 @@
+button {
+  width: 120px;
+  text-align: center;
+  padding: 10px 26px;
+  font-size: large;
+  border-radius: 5px;
+  border: none;
+  margin: 0 10px;
+}
+
+.increase, .decrease, .reset {
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  background: transparent;
+  transition: .5s ease-in-out;
+}
+
+.increase:hover {
+  background-color: #43dd77;
+}
+
+.decrease:hover {
+  background-color: #ff6464;
+}
+
+.reset:hover {
+  background-color: #dbd5d5;
+}
