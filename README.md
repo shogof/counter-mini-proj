@@ -6,11 +6,11 @@
 
 I’m excited to present my latest project: a React Counter Component! This component features a straightforward counter with buttons to increment, decrement, and reset the count. Designed with a clean and user-friendly interface, this project highlights fundamental React principles and provides an example of managing state and handling user interactions effectively.
 
-## [Live Demo]() 🎥
+## [Live Demo](https://counter-mini-proj-mj9yxid3d-shogofs-projects.vercel.app/) 🎥
 
 ## Demo 📸
 
-![Markdown Previewer Screenshot]()
+![Markdown Previewer Screenshot](./public/images/s.jpg)
 
 ## Technologies Used 🛠️
 
