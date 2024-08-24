@@ -49,18 +49,6 @@ To set up the project locally, follow these steps:
 
    Open `http://localhost:3000` in your web browser to view the app.
 
-### `MarkdownPreviewer.js`
-
-- **State Management:**
-
-  - `editorValue`: Stores the current Markdown input from the user.
-
-- **handleEditorChange Function:**
-  Updates the `editorValue` state with the content from the textarea.
-
-- **Rendering:**
-  Displays a textarea for Markdown input and a div for the Markdown preview using `ReactMarkdown`.
-
 ## Author 👩‍💻
 
 - **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/shegofa-developer-aa362030b)
@@ -74,7 +62,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 1. **Fork the repository** on GitHub.
 2. **Clone your fork** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/counter.git
+   git clone https://github.com/shogof/counter.git
    ```
 3. **Create a new branch** for your changes:
    ```bash
