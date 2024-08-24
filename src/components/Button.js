@@ -1,7 +1,8 @@
 import './Button.css';
+
 function Button({ text, clickHandler }) {
   return (
-    <button onClick={clickHandler} className={text}>
+    <button type='button' onClick={clickHandler} className={text}>
       {text}
     </button>
   );
