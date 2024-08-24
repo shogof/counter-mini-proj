@@ -49,16 +49,6 @@ To set up the project locally, follow these steps:
 
    Open `http://localhost:3000` in your web browser to view the app.
 
-## Usage 🎯
-
-1. **Edit Markdown:**
-   Type Markdown content into the left-hand editor pane.
-
-2. **Preview Markdown:**
-   The right-hand pane will automatically render and display the Markdown content as HTML.
-
-## Code Overview 📂
-
 ### `MarkdownPreviewer.js`
 
 - **State Management:**
