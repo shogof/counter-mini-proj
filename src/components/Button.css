@@ -8,10 +8,12 @@ button {
   margin: 0 10px;
 }
 
-.increase, .decrease, .reset {
-  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+.increase,
+.decrease,
+.reset {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
   background: transparent;
-  transition: .5s ease-in-out;
+  transition: 0.5s ease-in-out;
 }
 
 .increase:hover {

@@ -4,13 +4,12 @@ body {
 
 .container {
   background-color: transparent;
-  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
   border-radius: 10px;
   width: 50%;
   padding: 40px 20px;
   margin: 100px auto;
   line-height: 10px;
-
 }
 
 h1 {
